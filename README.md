@@ -1,7 +1,7 @@
 ###### Author: Patrick Archer (@pjarcher913)
 ###### Last Updated: 11 July 2019
 
-#### Hello! Welcome to my personal website.
+#### Hello! You are viewing the codebase for my personal website.
 
 As with all other websites, `index.html` is used to initially load. If you don't want to go through the process of deploying the build to a server, just open `index.html` and you will be able to get a feel for how everything runs.
 
